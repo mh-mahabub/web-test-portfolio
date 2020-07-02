@@ -9,6 +9,7 @@ h2{
   font-size: 25px;}
   p{
     color: dimgray;
+    text-align: justify;
   }
  .orange{
    color: orange;
