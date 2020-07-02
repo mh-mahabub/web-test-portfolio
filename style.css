@@ -56,12 +56,11 @@ section{
   text-align: center;
 }
 .box{
-  width: 25%;
+  width: 30%;
   float: left;
-  margin-left: 5px;
 }
 .box img{
-  width: 100%;
+  width: 60%;
 }
 footer p{
   text-align: center;
